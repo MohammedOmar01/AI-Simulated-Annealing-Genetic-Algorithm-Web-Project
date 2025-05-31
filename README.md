@@ -11,4 +11,4 @@ Built using Python (Flask) for the backend, HTML, CSS, and JavaScript for the fr
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot 2025-05-31 134822](https://github.com/user-attachments/assets/6c0f7445-1f09-4942-8fdb-96f6b296f646)
+![Screenshot 2025-05-31 134822](https://github.com/user-attachments/assets/956abb68-c04f-4774-86ad-b4d68f00e58f)
